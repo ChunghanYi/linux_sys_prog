@@ -1,0 +1,53 @@
+/*
+ * The code herein is: Copyright Jerry Cooperstein, 2009
+ *
+ * This Copyright is retained for the purpose of protecting free
+ * redistribution of source.
+ *
+ *     URL:    http://www.coopj.com
+ *     email:  coop@coopj.com
+ *
+ * The primary maintainer for this code is Jerry Cooperstein
+ * The CONTRIBUTORS file (distributed with this
+ * file) lists those known to have contributed to the source.
+ *
+ * This code is distributed under Version 2 of the GNU General Public
+ * License, which you should have received with the source.
+ *
+ */
+
+/*********************************/
+/* Thanks to the original author */
+/*********************************/
+You can visit the Jerry Cooperstein's web page for more information of his books.
+  http://www.coopj.com/
+
+In my github, I want to publicize his works and also make them to work well
+in both recent kernel and yocto environments.
+I appreciate Jerry Cooperstein for his great works.
+
+
+/**********************/
+/* Some modifications */
+/**********************/
+
+
+
+/**********************************/
+/* How to setup yocto environment */
+/**********************************/
+$ source /opt/poky/2.1.2/environment-setup-armv7a-neon-poky-linux-gnueabi
+	=> Setup poky toolchain environments.
+	=> This path will be different depending on your situation. 
+
+
+/*******************************/
+/* How to build each directory */
+/*******************************/
+$ cd s_02
+$ ../genmake
+$ make
+
+
+May the source be with you !
+chunghan.yi@gmail.com
