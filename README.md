@@ -1,7 +1,7 @@
 # linux_sys_prog
-Linux systems programming examples
+**Linux systems programming examples**
 
-	- file operations
+	- *file operations
 
 	- process
 
@@ -13,4 +13,4 @@ Linux systems programming examples
 
 	- socket
 
-	- IPC: shared memory, message queue, semaphore
+	- IPC: shared memory, message queue, semaphore*
