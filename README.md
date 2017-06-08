@@ -1,16 +1,16 @@
 # linux_sys_prog
 **Linux systems programming examples**
 
-	- *file operations*
+	- file operations
 
-	- *process*
+	- process
 
-	- *signal*
+	- signal
 
-	- *pthread*
+	- pthread
 
-	- *I/O multiplexing(select, poll, epoll)*
+	- I/O multiplexing(select, poll, epoll)
 
-	- *socket*
+	- socket
 
-	- *IPC: shared memory, message queue, semaphore*
+	- IPC: shared memory, message queue, semaphore
